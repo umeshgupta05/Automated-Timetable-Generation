@@ -28,8 +28,4 @@ The **Timetable Management System** is a Java-based application designed to stre
 - Oracle Database or any SQL-compliant database  
 - IntelliJ IDEA or any Java IDE  
 
-### Installation
 
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/timetable-management-system.git
